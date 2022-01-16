@@ -2,7 +2,6 @@
 #
 # This program is free software; you can redistribute it and/or modify it
 # under the terms of the standard MIT license.  See COPYING for more details.
-
 sizeof_workid = 8
 
 import base58 as _base58
